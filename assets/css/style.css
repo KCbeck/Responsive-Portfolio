@@ -226,7 +226,7 @@ textarea {
   font-size: 14px;
   border: 1px solid #dddddd;
   width: 830px;
-  align: center;
+
 }
 
 textarea {
@@ -354,5 +354,7 @@ input[type=submit] {
     margin-bottom: 20px;
     margin-top: -70px;
   }
-
-  
+#guessingGamePhoto{
+  width: 208.5px; 
+  height:274px;
+}
